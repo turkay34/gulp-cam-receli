@@ -1,0 +1,21 @@
+{
+  "name": "camreceli-gulp",
+  "version": "1.0.0",
+  "description": "cam-receli-gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Turkay Beyazay",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-cache": "^1.1.3",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-twig": "^1.2.0",
+    "twig": "^1.15.1"
+  }
+}

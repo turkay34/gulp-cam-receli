@@ -1,0 +1,199 @@
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #70c295;
+}
+.navbar-custom .nav-item .nav-link{
+    color: black;
+    padding: 0 20px 0 20px;
+}
+.navbar-nav{
+    margin-right: 100px;
+    font-family: 'Lato', sans-serif, sans-serif;
+}
+.img-div{
+    background-image: url("../img/background.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row-custom{
+    height: 400px;
+}
+.row-custom .d-flex h1{
+    color: white;
+    font-size: 70px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+.row-custom .d-flex p{
+    color: white;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-top: 60px;
+}
+.container-custom .row{
+    margin-bottom: 60px;
+}
+.container-custom .row .col-6 h4{
+    font-family: 'Poppins', sans-serif
+}
+.container-custom .row .col-6 p{
+    font-family: 'Lato', sans-serif;
+}
+.container .row .div-custom{
+    position:relative;
+    background-color: #70c295;
+    height: 400px;
+    width: 100%;
+    left: 90px;
+}
+.container .row .img-custom{
+    position: relative;
+    height: 400px;
+    width: 100%;
+    right: 40px;
+    top: 30px;
+}
+.container .row .form-group input{
+    display: inline;
+    border-color: #e5edc7;
+    font-family: 'Lato', sans-serif;
+}
+.container .row .form-group input::placeholder{
+    font-style: italic;
+    font-family: 'Lato', sans-serif;
+}
+.container .row button{
+    background-color: #70c295;
+    color: white;
+    width: 120px;
+    font-family: 'Lato', sans-serif;
+}
+#name-surname,#web,#mail,#phone{
+    width: 260px;
+    margin-bottom: 15px;
+}
+#web,#phone{
+    margin-left: 15px;
+}
+#message{
+    height: 100px;
+}
+#map{
+    position: relative;
+    background-image: url("../img/map.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 350px;
+}
+#map img{
+    position: absolute;
+    left: 610px;
+    top: 150px;
+}
+.container-fluid .contact-custom{
+    background-color: #70c295;
+    position: absolute;
+    z-index: 99;
+    right: 150px;
+    height: 350px;
+}
+.container-fluid .contact-custom p,h3,h5,address{
+    padding-top: 4px;
+    padding-left: 20px;
+    color: white;
+}
+.container-fluid .contact-custom h3{
+    padding-top: 40px;
+    padding-left: 20px;
+    font-family: 'Poppins', sans-serif
+}
+.container-fluid .contact-custom h5{
+    font-size: 16px;
+    padding-top: 40px;
+    padding-top: 40px;
+    padding-left: 20px;
+    font-family: 'Lato', sans-serif;
+}
+.container-fluid .contact-custom i{
+    font-size: 15px;
+    padding-right: 15px;
+}
+.container-fluid .contact-custom address,p{
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+}
+.footer-right{
+    padding-left: 50px;
+}
+.footer-right h1{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif
+}
+.row-image{
+    background-image: url("../img/camlik.png");
+    height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 60px;
+}
+.row-image .title{
+    font-size: 12px;
+}
+.row-image img{
+    padding: 40px 0 30px;
+}
+.row-image p{
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+.row-image i{
+    padding: 40px 10px 0 20px;
+}
+.row-image .copyright{
+    padding-top: 50px;
+    margin-bottom: 0;
+}
+.row-image #copyright,#designer{
+    font-size: 12px;
+    opacity: 70%;
+}
+.subscription{
+    padding-left: 20px;
+}
+.subscription label{
+    font-size: 14px;
+    padding-bottom: 10px;
+    font-family: 'Lato', sans-serif;
+}
+.subscription .input-group input{
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+}
+.information h4{
+    padding-top: 40px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+.information h6{
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+.information a{
+    color: black;
+    display: block;
+    padding-bottom: 10px;
+    font-family: 'Lato', sans-serif;
+}
+.information a:hover{
+    color: #70c295;
+}
+.information .row img{
+    padding: 5px 5px 5px 5px;
+}
