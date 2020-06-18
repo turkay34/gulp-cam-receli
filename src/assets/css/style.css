@@ -17,6 +17,9 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.first-form{
+    padding-left: 100px;
+}
 .row-custom{
     height: 400px;
 }
@@ -115,7 +118,6 @@
 .container-fluid .contact-custom h5{
     font-size: 16px;
     padding-top: 40px;
-    padding-top: 40px;
     padding-left: 20px;
     font-family: 'Lato', sans-serif;
 }
@@ -136,7 +138,7 @@
 }
 .row-image{
     background-image: url("../img/camlik.png");
-    height: 450px;
+    height: 550px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
